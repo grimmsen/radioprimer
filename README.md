@@ -20,6 +20,6 @@ needed a clock generator at 3.759MHz, which i build with a crystal, a hex schmit
 resistor and some capacitors. I was unable to verify if my bodged circuit was working, but
 quickly found out, i could watch a picture, of what is going on on the output of my clock generator. So tip no 1:
 
-** get an oscilloscope **
+**get an oscilloscope**
 
 
